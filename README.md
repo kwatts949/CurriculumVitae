@@ -10,6 +10,8 @@ I was ready for a new challenge, to explore something I'd long wanted to do - pr
 
 ## Projects
 
+| Name | Description | Tech/Tools |
+| ---| --- | --- |
 | [Student Directory](https://github.com/kwatts949/student-directory) | A program to manage student info | Ruby |
 | [Fizzbuzz](https://github.com/lwly-jpg/fizzbuzz) | Collaborative TDD | Ruby, RSPEC |
 
@@ -43,7 +45,7 @@ I have considerable experience in writing high quality technical reports and new
 
 # Problem-solving
 
-I'm a proven effective problem-solver
+I'm a proven effective problem-solver. I live for the challenge of finding solutions where others can't.
 
 # Accuracy & precision
 
@@ -51,32 +53,6 @@ I ensure that all work I complete is highly accurate and precise. Within my Chem
 
 # Love of learning
 My quest in life is to learn something new every day. I have an inherent desire to challenge myself and be better. This year, I've learnt to code and begun playing the piano - I'm excited to see what next year will bring!
-
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -102,13 +78,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Highworth Grammar School for Girls
 
-## A-Levels
+#### A-Levels
 
-Biology
-French
+Biology<br>
+French<br>
 German
 
-## GCSEs
+#### GCSEs
 
 11 GCSEs
 
