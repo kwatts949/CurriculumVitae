@@ -6,7 +6,7 @@ Unlike 1% of the population, I was born with a highly gifted IQ, but we all know
 
 In 2020, I decided to rediscover my love of learning and do another degree in Chemistry. Prior to that I had been self-studying A-Level Maths in my free-time. Come 2022, full of confidence and ambition from two years of successful intensive learing, I realised what I really love most about science is problem-solving, using computers to solve complex problems, like protein-folding a la DeepMind.
 
-I was ready for a new challenge, to explore something I'd long wanted to do - programming. Coding gives me the opportunity learn something new every day, to problem-solve to my hearts content, and it challenges my brain and creativity in ways I couldn't have imagined.
+I'm now ready for a new challenge, to explore something I've long wanted to do. Coding gives me the opportunity to learn something new every day, to problem-solve to my hearts content, and challenge my brain and creativity in ways I couldn't have imagined.
 
 ## Projects
 
@@ -21,7 +21,7 @@ I was ready for a new challenge, to explore something I'd long wanted to do - pr
 Client Executive
 
 - Promoted twice within just over a year due to my excellent work ethic, attention to detail and ability to produce highly accurate work under time pressure.
-- Prepared and delivered induction training to a group of around 10 new starters with just 23 hours notice.
+- Prepared and delivered induction training to a group of around 10 new starters with just 24 hours notice.
 
 **The Audit Commission** (September 2009 to June 2010)  
 Trainee Auditor Graduate Scheme
