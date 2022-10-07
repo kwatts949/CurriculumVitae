@@ -17,25 +17,28 @@ I'm now ready for a new challenge, to explore something I've long wanted to do. 
 
 ## Work Experience
 
-**Ernst & Young** (June 2010 to June 2012)  
-Client Executive
+### **Ernst & Young** (June 2010 to June 2012) 
+
+**Client Executive (Tax)**
 
 - Promoted twice within just over a year due to my excellent work ethic, attention to detail and ability to produce highly accurate work under time pressure.
 - Prepared and delivered induction training to a group of around 10 new starters with just 24 hours notice.
 
-**The Audit Commission** (September 2009 to June 2010)  
-Trainee Auditor Graduate Scheme
+### **The Audit Commission** (September 2009 to June 2010)  
 
-- Responsible for helping to ensure accounts had been prepared to a correct standard. An eye for detail and accuracy was essential to this role.
-- Excellent communication skills were critical as most of my time was spent within client workplaces (such as The Royal Cornwall NHS Hospital Trust), liasing with employees.
+**Trainee Auditor Graduate Scheme**
+
+- A critical eye and accuracy was essential to this role, ensuring clients accounts were completed to current standards.
+- Excellent communicationor - most of my time was spent within client workplaces (such as The Royal Cornwall NHS Hospital Trust), liasing with employees.
 - Passed exams in Business & Financial Management.
 
-**Thomson Reuters** (September 2007 to September 2009)  
-Stock Market Data Analyst (Swiss, Austrian & Luxembourg Exchanges)
+### **Thomson Reuters** (September 2007 to September 2009)  
 
-- Highly technical role within a live, real-time environment maintaining stock exchange data, requiring accuracy and precision, attention to detail and excellent communication skills(in English, French & German). 
+**Stock Market Data Analyst (Swiss, Austrian & Luxembourg Exchanges)**
+
+- Highly technical role within a live, real-time environment maintaining stock exchange data, requiring accuracy and precision, attention to detail and excellent communication skills (in English, French & German). 
 - The vast majority of time was spent identifying and resolving potential issues before they became problematic, as well as resolving stakeholder tickets.
-- Working in a high pressure environment, the ability to remain calm and make fast, constructive decisions was essential.
+- High pressure, fast-paced environment - the ability to remain calm and make fast, constructive decisions was essential.
 - Presented with a Sunset Award for my work within a large international team responsible for the migration of data.  
 
 ## Skills
