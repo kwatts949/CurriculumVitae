@@ -21,6 +21,7 @@ I'm now ready for a new challenge, to explore something I've long wanted to do. 
 
 **Client Executive (Tax)**
 
+- Preparing client tax accounts and self-assessment returns.
 - Promoted twice within just over a year due to my excellent work ethic, attention to detail and ability to produce highly accurate work under time pressure.
 - Prepared and delivered induction training to a group of around 10 new starters with just 24 hours notice.
 
@@ -28,8 +29,8 @@ I'm now ready for a new challenge, to explore something I've long wanted to do. 
 
 **Trainee Auditor Graduate Scheme**
 
-- A critical eye and accuracy was essential to this role, ensuring clients accounts were completed to current standards.
-- Excellent communicationor - most of my time was spent within client workplaces (such as The Royal Cornwall NHS Hospital Trust), liasing with employees.
+- Ensuring client financial accounts were correct and compliant.
+- Excellent communicaton was essential, most of my time was spent within client workplaces (such as The   Royal Cornwall NHS Hospital Trust), liasing with employees.
 - Passed exams in Business & Financial Management.
 
 ### **Thomson Reuters** (September 2007 to September 2009)  
@@ -52,7 +53,7 @@ I'm a proven effective problem-solver. I live for the challenge of finding solut
 
 # Accuracy & precision
 
-I ensure that all work I complete is highly accurate and precise. Within my Chemistry degree, I have achieved a score of 100% on several assignments due to the impeccable quality of my work. Additionally I have worked with live data feeds where the smallest error could result in catastrophic effects on the data feed integrity. As such, I have considerable experience in error-checking and ensuring accuracy.
+I ensure that all work I complete is highly accurate and precise. Within my Chemistry degree, I have achieved a score of 100% on several assignments due to the impeccable quality of my work. Additionally, I have worked with live data feeds where the smallest error could result in catastrophic effects on the data feed integrity. As such, I have considerable experience in error-checking and ensuring accuracy.
 
 # Love of learning
 My quest in life is to learn something new every day. I have an inherent desire to challenge myself and be better. This year, I've learnt to code and begun playing the piano - I'm excited to see what next year will bring!
