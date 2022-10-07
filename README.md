@@ -30,15 +30,16 @@ I'm now ready for a new challenge, to explore something I've long wanted to do. 
 **Trainee Auditor Graduate Scheme**
 
 - Ensuring client financial accounts were correct and compliant.
-- Excellent communicaton was essential, most of my time was spent within client workplaces (such as The   Royal Cornwall NHS Hospital Trust), liasing with employees.
+- Excellent communication was essential, most of my time was spent within client workplaces (such as The Royal Cornwall NHS Hospital Trust), liasing with employees.
 - Passed exams in Business & Financial Management.
 
 ### **Thomson Reuters** (September 2007 to September 2009)  
 
 **Stock Market Data Analyst (Swiss, Austrian & Luxembourg Exchanges)**
 
-- Highly technical role within a live, real-time environment maintaining stock exchange data, requiring accuracy and precision, attention to detail and excellent communication skills (in English, French & German). 
-- The vast majority of time was spent identifying and resolving potential issues before they became problematic, as well as resolving stakeholder tickets.
+- Highly technical role within a live, real-time environment maintaining stock exchange data.
+- Required accuracy and precision, attention to detail and excellent communication skills (in English, French & German). 
+- Identifying and resolving potential issues before they became problematic and resolving stakeholder tickets.
 - High pressure, fast-paced environment - the ability to remain calm and make fast, constructive decisions was essential.
 - Presented with a Sunset Award for my work within a large international team responsible for the migration of data.  
 
