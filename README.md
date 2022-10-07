@@ -1,12 +1,12 @@
 ## Kay Watts
 
-Hi, I'm Kay! For the past 11 years I've taken an extended career break to raise my children. Parenting and home-educating aside, I've been working on myself so I can launch myself back into the workforce fully prepped!
+I'm Kay, I've taken been taking an extended career break to raise my children for the past 11 years, but parenting and home-educating aside, I've been working on my skillset so I can launch myself back into the workforce fully prepped!
 
-Unlike 1% of the population, I was born with a highly gifted IQ, but we all know that's only good if you do something with it. Fortunately, that didnt stop me from burning out completely in my teens. Even better, it took me a long while to regain my confidence and realise that I was enough. For the last couple of years I've been on a journey to learn more about myself, using my skills to revisit learning and achieving the goals I set for myself. 
+Unlike 1% of the population, I was born with a highly gifted IQ, but that's only good if you do something with it. Fortunately, that didnt stop me from burning out completely in my teens. Even better, it took me a long while to regain my confidence and realise that I was enough. For the last couple of years I've been using my skills to revisit learning and achieve the goals I set for myself. 
 
 In 2020, I decided to rediscover my love of learning and do another degree in Chemistry. Prior to that I had been self-studying A-Level Maths in my free-time. Come 2022, full of confidence and ambition from two years of successful intensive learing, I realised what I really love most about science is problem-solving, using computers to solve complex problems, like protein-folding a la DeepMind.
 
-I'm now ready for a new challenge, to explore something I've long wanted to do. Coding gives me the opportunity to learn something new every day, to problem-solve to my hearts content, and challenge my brain and creativity in ways I couldn't have imagined.
+I'm now ready for a new challenge, to explore something I've long wanted to do. Coding gives me the opportunity to learn something new every day, to problem-solve to my hearts content, and challenge my brain and creativity in ways I couldn't have imagined. 
 
 ## Projects
 
@@ -45,7 +45,7 @@ I have considerable experience in writing high quality technical reports and new
 
 # Problem-solving
 
-I'm a proven effective problem-solver. I live for the challenge of finding solutions where others can't.
+I'm a proven effective problem-solver. I live for the challenge of finding solutions where others can't. In my job at Ernst & Young, I indentified and helped implement changes we could make to the way new starters were inducted into our team to make them more productive quicker.
 
 # Accuracy & precision
 
@@ -56,7 +56,7 @@ My quest in life is to learn something new every day. I have an inherent desire 
 
 ## Education
 
-#### Makers Academy (September 2022 to January 2023)
+#### Makers Academy (September 2022 to January 2023) (TODO)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
