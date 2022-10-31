@@ -4,7 +4,7 @@ I'm Kay, I've taken been taking an extended career break to raise my children fo
 
 Unlike 1% of the population, I was born with a highly gifted IQ, but that's only good if you do something with it. Fortunately, that didnt stop me from burning out completely in my teens. Even better, it took me a long while to regain my confidence and realise that I was enough. For the last couple of years I've been using my skills to revisit learning and achieve the goals I set for myself. 
 
-In 2020, I decided to rediscover my love of learning and do another degree in Chemistry. Prior to that I had been self-studying A-Level Maths in my free-time. Come 2022, full of confidence and ambition from two years of successful intensive learing, I realised what I really love most about science is problem-solving, using computers to solve complex problems, like protein-folding a la DeepMind.
+In 2020, I decided to rediscover my love of learning and do another degree in Chemistry. Prior to that I had been self-studying A-Level Maths in my free-time. Come 2022, full of confidence and ambition from two years of successful intensive learning, I realised what I really love most about science is problem-solving, using computers to solve complex problems, like protein-folding a la DeepMind.
 
 I'm now ready for a new challenge, to explore something I've long wanted to do. Coding gives me the opportunity to learn something new every day, to problem-solve to my hearts content, and challenge my brain and creativity in ways I couldn't have imagined. 
 
@@ -13,7 +13,7 @@ I'm now ready for a new challenge, to explore something I've long wanted to do. 
 | Name | Description | Tech/Tools |
 | ---| --- | --- |
 | [Student Directory](https://github.com/kwatts949/student-directory) | A program to manage student info | Ruby |
-| [Fizzbuzz](https://github.com/lwly-jpg/fizzbuzz) | Collaborative TDD | Ruby, RSPEC |
+| [Shop Management App](https://github.com/kwatts949/shop-manager-challenge) | A shop management app | Ruby, RSpec, SQL, PostgreSQL |
 
 ## Work Experience
 
@@ -62,18 +62,16 @@ My quest in life is to learn something new every day. I have an inherent desire 
 ## Education
 
 #### Makers Academy (September 2022 to January 2023) (TODO)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+- Frequently used pairing in order to problem solve efficiently, requiring teamwork and communication.
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec
+- SQL, PostgreSQL
 
 #### The Open University (Jan 2020 to Present)
 
 - BSc Chemistry
-- Ongoing
 - I achieved 100% in several assignments and have been awarded a distinction (score of > 85%) in each of the 6 modules I have completed to date.
 - I am currently on track to receive a First Class degree.
 
