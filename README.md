@@ -12,7 +12,7 @@ I'm now ready for a new challenge, to explore something I've long wanted to do. 
 
 | Name | Description | Tech/Tools |
 | ---| --- | --- |
-| [Student Directory](https://github.com/kwatts949/student-directory) | A program to manage student info | Ruby |
+| [Chitter](https://github.com/kwatts949/chitter-challenge) | A Twitter clone | Ruby, RSpec, SQL, Sinatra |
 | [Shop Management App](https://github.com/kwatts949/shop-manager-challenge) | A shop management app | Ruby, RSpec, SQL, PostgreSQL |
 
 ## Work Experience
