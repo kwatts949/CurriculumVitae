@@ -13,7 +13,7 @@ I'm now ready for a new challenge, to explore something I've long wanted to do. 
 | Name | Description | Tech/Tools |
 | ---| --- | --- |
 | [Chitter](https://github.com/kwatts949/chitter-challenge) | A Twitter clone | Ruby, RSpec, SQL, Sinatra |
-| [Shop Management App](https://github.com/kwatts949/shop-manager-challenge) | A shop management app | Ruby, RSpec, SQL, PostgreSQL |
+| [Makers BnB](https://github.com/H6enryB/makersbnb-ruby-seed) | A group project making a BnB clone | Ruby, RSpec, SQL, PostgreSQL, HTML, CSS |
 
 ## Work Experience
 
@@ -63,6 +63,8 @@ My quest in life is to learn something new every day. I have an inherent desire 
 
 #### Makers Academy (September 2022 to January 2023) (TODO)
 - Frequently used pairing in order to problem solve efficiently, requiring teamwork and communication.
+- Work in a team on a group project.
+- Hosted demo event for cohort.
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
