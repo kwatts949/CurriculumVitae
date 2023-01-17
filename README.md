@@ -13,6 +13,7 @@ I'm now ready for a new challenge, to explore something I've long wanted to do. 
 | Name | Description | Tech/Tools |
 | ---| --- | --- |
 | [Tipsy Tourist](https://github.com/kwatts949/Tipsy-Tourist) | A pubcrawl & sight-seeing tour planner | GoogleMaps, REACT, Express, Javascript, Chakra |
+[AceBook](https://github.com/kwatts949/Acebook---A-Facebook-Clone) | A Facebook Clone | REACT, Express, Node, Javascript, MongoDB, HTML, CSS |
 | [Chitter](https://github.com/kwatts949/chitter-challenge) | A Twitter clone | Ruby, RSpec, SQL, Sinatra |
 | [Makers BnB](https://github.com/H6enryB/makersbnb-ruby-seed) | A group project making a BnB clone | Ruby, RSpec, SQL, PostgreSQL, HTML, CSS |
 
