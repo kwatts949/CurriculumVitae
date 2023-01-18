@@ -1,5 +1,15 @@
-## Kay Watts
+<h1 align='center'> Kay Watts<h1> 
+<div>
+<h3 align='center'>
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/main/README.md#About-me'>About me </a> <span> · </span>
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/main/README.md#Projects'>Projects </a><span> · </span>
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/main/README.md#Work-Experience'>Work Experience</a><span> · </span>
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/main/README.md#Skills'>Skills </a><span> · </span>
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/main/README.md#Education'>Education </a>  
+<h3>
+</div>
 
+### About me
 I'm Kay, I've taken been taking an extended career break to raise my children for the past 11 years, but parenting and home-educating aside, I've been working on my skillset so I can launch myself back into the workforce fully prepped!
 
 Unlike 1% of the population, I was born with a highly gifted IQ, but that's only good if you do something with it. Fortunately, that didnt stop me from burning out completely in my teens. Even better, it took me a long while to regain my confidence and realise that I was enough. For the last couple of years I've been using my skills to revisit learning and achieve the goals I set for myself. 
@@ -7,6 +17,7 @@ Unlike 1% of the population, I was born with a highly gifted IQ, but that's only
 In 2020, I decided to rediscover my love of learning and do another degree in Chemistry. Prior to that I had been self-studying A-Level Maths in my free-time. Come 2022, full of confidence and ambition from two years of successful intensive learning, I realised what I really love most about science is problem-solving, using computers to solve complex problems, like protein-folding a la DeepMind.
 
 I'm now ready for a new challenge, to explore something I've long wanted to do. Coding gives me the opportunity to learn something new every day, to problem-solve to my hearts content, and challenge my brain and creativity in ways I couldn't have imagined. 
+</div>
 
 ## Projects
 
