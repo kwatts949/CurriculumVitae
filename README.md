@@ -1,11 +1,11 @@
 <h1 align='center'> Kay Watts<h1> 
 <div>
 <h3 align='center'>
-<a href='https://github.com/kwatts949/CurriculumVitae/blob/main/README.md#About-me'>About me </a> <span> · </span>
-<a href='https://github.com/kwatts949/CurriculumVitae/blob/main/README.md#Projects'>Projects </a><span> · </span>
-<a href='https://github.com/kwatts949/CurriculumVitae/blob/main/README.md#Work-Experience'>Work Experience</a><span> · </span>
-<a href='https://github.com/kwatts949/CurriculumVitae/blob/main/README.md#Skills'>Skills </a><span> · </span>
-<a href='https://github.com/kwatts949/CurriculumVitae/blob/main/README.md#Education'>Education </a>  
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#about-me'>About me </a> <span> · </span>
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#projects'>Projects </a><span> · </span>
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#work-experience'>Work Experience</a><span> · </span>
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#skills'>Skills </a><span> · </span>
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#education'>Education </a>  
 <h3>
 </div>
 
