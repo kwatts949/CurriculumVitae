@@ -1,15 +1,15 @@
 <h1 align='center'> Kay Watts<h1> 
 <div>
-<h3 align='center'>
+<h6 align='center'>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#about-me'>About me </a> <span> · </span>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#projects'>Projects </a><span> · </span>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#work-experience'>Work Experience</a><span> · </span>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#skills'>Skills </a><span> · </span>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#education'>Education </a>  
-<h3>
+<h6>
 </div>
 
-### About me
+## About me
 I'm Kay, I've taken been taking an extended career break to raise my children for the past 11 years, but parenting and home-educating aside, I've been working on my skillset so I can launch myself back into the workforce fully prepped!
 
 Unlike 1% of the population, I was born with a highly gifted IQ, but that's only good if you do something with it. Fortunately, that didnt stop me from burning out completely in my teens. Even better, it took me a long while to regain my confidence and realise that I was enough. For the last couple of years I've been using my skills to revisit learning and achieve the goals I set for myself. 
