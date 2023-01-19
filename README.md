@@ -78,11 +78,12 @@ My quest in life is to learn something new every day. I have an inherent desire 
 - Frequently used pairing in order to problem solve efficiently, requiring teamwork and communication.
 - Work in a team on a group project.
 - Hosted demo event for cohort.
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec
+- OOP, TDD
+- Agile
+- Ruby, JavaScript, REACT
+- RSpec, Jest
 - SQL, PostgreSQL
+- HTML, CSS & Chakra UI
 
 #### The Open University (Jan 2020 to Present)
 
