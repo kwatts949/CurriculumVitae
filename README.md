@@ -70,7 +70,7 @@ I'm a proven effective problem-solver. I live for the challenge of finding solut
 I ensure that all work I complete is highly accurate and precise. Within my Chemistry degree, I have achieved a score of 100% on several assignments due to the impeccable quality of my work. Additionally, I have worked with live data feeds where the smallest error could result in catastrophic effects on the data feed integrity. As such, I have considerable experience in error-checking and ensuring accuracy.
 
 ### Love of learning
-My quest in life is to learn something new every day. I have an inherent desire to challenge myself and be better. This year, I've learnt to code and begun playing the piano - I'm excited to see what next year will bring!
+My quest in life is to learn something new every day and I am a huge advocate for education - I volunteer at my local secondary school, improving the quality of their resources to enrich the experience of students. I have an inherent desire to challenge myself and be better. This year, I've learnt to code and begun playing the piano - I'm excited to see what next year will bring!
 
 ## Education
 
