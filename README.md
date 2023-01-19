@@ -5,7 +5,9 @@
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#projects'>Projects </a><span> · </span>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#work-experience'>Work Experience</a><span> · </span>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#skills'>Skills </a><span> · </span>
-<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#education'>Education </a>  
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#education'>Education </a> <span> · </span>
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#interests'>Interests </a>  <span> · </span>
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#volunteering'>Volunteering </a>  
 <h6>
 </div>
 
@@ -16,7 +18,8 @@ Unlike 1% of the population, I was born with a highly gifted IQ, but that's only
 
 In 2020, I decided to rediscover my love of learning and do another degree in Chemistry. Prior to that I had been self-studying A-Level Maths in my free-time. Come 2022, full of confidence and ambition from two years of successful intensive learning, I realised what I really love most about science is problem-solving, using computers to solve complex problems, like protein-folding a la DeepMind.
 
-I'm now ready for a new challenge, to explore something I've long wanted to do. Coding gives me the opportunity to learn something new every day, to problem-solve to my hearts content, and challenge my brain and creativity in ways I couldn't have imagined. 
+I'm now ready for a new challenge, to explore something I've long wanted to do. Coding gives me the opportunity to learn something new every day, to problem-solve to my hearts content, and challenge my brain and creativity in ways I couldn't have imagined. I'm looking to work in an exciting, progressive, tech-led company and see what we can achieve together.
+  
 </div>
 
 ## Projects
@@ -76,14 +79,15 @@ My quest in life is to learn something new every day and I am a huge advocate fo
 
 #### Makers Academy (September 2022 to January 2023) (TODO)
 - Frequently used pairing in order to problem solve efficiently, requiring teamwork and communication.
-- Work in a team on a group project.
-- Hosted demo event for cohort.
+- Work in teams on a group projects.
+- Hosted demo event for my cohort.
 - OOP, TDD
 - Agile
 - Ruby, JavaScript, REACT
 - RSpec, Jest
 - SQL, PostgreSQL
 - HTML, CSS & Chakra UI
+- Training in empathy, team communication & feedback
 
 #### The Open University (Jan 2020 to Present)
 
@@ -97,23 +101,21 @@ My quest in life is to learn something new every day and I am a huge advocate fo
 
 #### Highworth Grammar School for Girls
 
-#### A-Levels
+A-Levels: Biology, French & German
 
-Biology<br>
-French<br>
-German
+GCSEs: 11 GCSEs
 
-#### GCSEs
-
-11 GCSEs
+## Volunteering
+📘 I volunteer at my local Secondary school, quality checking learning resources meet a high standard.
 
 ## Interests
 
-🎲 Modern board games: Currently playing Here to. Slay & Isle of Cats <br>
+🎲 Modern board games: Currently playing Here to Slay & Isle of Cats <br>
 🛶 Kayaking <br>
 🎨 Crochet & knitting <br>
-🎹 Playing piano: Grade 1 - Very much a beginner!
+🎹 Playing piano: Grade 1 - Very much a beginner! <br>
 🐶 Taking long walks on the moors with my dog (Loki)
+
   
 ## Future Goals <br>
 ✈️ Getting my pilots licence <br>
