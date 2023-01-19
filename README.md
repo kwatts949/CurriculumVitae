@@ -14,7 +14,7 @@
 
 
 ## About me 👱‍♀️
-I'm Kay, I've taken been taking an extended career break to raise my children for the past 11 years, but parenting and home-educating aside, I've been working on my skillset so I can launch myself back into the workforce fully prepped!
+I'm Kay, I'm a Full Stack Software Developer who has taken an extended career break to raise my children for the past 11 years, but parenting and home-educating aside, I've been working on my skillset so I can launch myself back into the workforce fully prepped!
 
 Unlike 99% of the population, I was born with a highly gifted IQ, but that's only good if you do something with it. Fortunately, that didnt stop me from burning out completely in my teens. Even better, it took me a long while to regain my confidence and realise that I was enough. For the last couple of years I've been using my skills to revisit learning and achieve the goals I set for myself. 
 
@@ -45,9 +45,9 @@ I'm now ready for a new challenge, to explore something I've long wanted to do. 
 
 | Name | Description | Tech/Tools |
 | ---| --- | --- |
-| [Tipsy Tourist](https://github.com/kwatts949/Tipsy-Tourist) | A pubcrawl & sight-seeing tour planner | GoogleMaps, REACT, Express, Javascript, Chakra |
-[AceBook](https://github.com/kwatts949/Acebook---A-Facebook-Clone) | A Facebook Clone | REACT, Express, Node, Javascript, MongoDB, HTML, CSS |
-| [Chitter](https://github.com/kwatts949/chitter-challenge) | A Twitter clone | Ruby, RSpec, SQL, Sinatra |
+| [Tipsy Tourist](https://github.com/kwatts949/Tipsy-Tourist) | A pubcrawl & sight-seeing tour planner. This app was developed by a team of 4 in just over 7 days using GoogleMaps & will plot a scenic pub crawl route anywhere in the world.. | GoogleMaps, REACT, Express, Javascript, Chakra |
+[AceBook](https://github.com/kwatts949/Acebook---A-Facebook-Clone) | A Facebook Clone. A small team project to develop an existing codebase. | REACT, Express, Node, Javascript, MongoDB, HTML, CSS |
+| [Chitter](https://github.com/kwatts949/chitter-challenge) | A Twitter clone developed by myself over a weekend. | Ruby, RSpec, SQL, Sinatra |
 | [Makers BnB](https://github.com/H6enryB/makersbnb-ruby-seed) | A group project making a BnB clone | Ruby, RSpec, SQL, PostgreSQL, HTML, CSS |
 
 ## Work Experience 👷
