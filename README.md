@@ -113,6 +113,7 @@ German
 🛶 Kayaking <br>
 🎨 Crochet & knitting <br>
 🎹 Playing piano: Grade 1 - Very much a beginner!
+🐶 Taking long walks on the moors with my dog (Loki)
   
 ## Future Goals <br>
 ✈️ Getting my pilots licence <br>
