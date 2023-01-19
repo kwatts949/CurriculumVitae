@@ -11,7 +11,9 @@
 <h6>
 </div>
 
-## About me
+
+
+## About me 👱‍♀️
 I'm Kay, I've taken been taking an extended career break to raise my children for the past 11 years, but parenting and home-educating aside, I've been working on my skillset so I can launch myself back into the workforce fully prepped!
 
 Unlike 99% of the population, I was born with a highly gifted IQ, but that's only good if you do something with it. Fortunately, that didnt stop me from burning out completely in my teens. Even better, it took me a long while to regain my confidence and realise that I was enough. For the last couple of years I've been using my skills to revisit learning and achieve the goals I set for myself. 
@@ -22,7 +24,7 @@ I'm now ready for a new challenge, to explore something I've long wanted to do. 
   
 </div>
 
-## Tech Stack
+## Tech Stack 💻
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -39,7 +41,7 @@ I'm now ready for a new challenge, to explore something I've long wanted to do. 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-## Projects
+## Projects 📖
 
 | Name | Description | Tech/Tools |
 | ---| --- | --- |
@@ -48,7 +50,7 @@ I'm now ready for a new challenge, to explore something I've long wanted to do. 
 | [Chitter](https://github.com/kwatts949/chitter-challenge) | A Twitter clone | Ruby, RSpec, SQL, Sinatra |
 | [Makers BnB](https://github.com/H6enryB/makersbnb-ruby-seed) | A group project making a BnB clone | Ruby, RSpec, SQL, PostgreSQL, HTML, CSS |
 
-## Work Experience
+## Work Experience 👷
 
 ### **Ernst & Young** (June 2010 to June 2012) 
 
@@ -76,7 +78,7 @@ I'm now ready for a new challenge, to explore something I've long wanted to do. 
 - High pressure, fast-paced environment - the ability to remain calm and make fast, constructive decisions was essential.
 - Presented with a Sunset Award for my work within a large international team responsible for the migration of data.  
 
-## Skills
+## Skills 🏆
 ### Communication
 
 I have considerable experience in writing high quality technical reports and new starter documentation. I have often been praised for my clean, clear and concise wording. I am an excellent oral communicator, having studied several languages and have worked effectively in many local and international teams spanning different cultures.
@@ -92,9 +94,9 @@ I ensure that all work I complete is highly accurate and precise. Within my Chem
 ### Love of learning
 My quest in life is to learn something new every day and I am a huge advocate for education - I volunteer at my local secondary school, improving the quality of their resources to enrich the experience of students. I have an inherent desire to challenge myself and be better. This year, I've learnt to code and begun playing the piano - I'm excited to see what next year will bring!
 
-## Education
+## Education 🏫
 
-#### Makers Academy (September 2022 to January 2023) (TODO)
+#### Makers Academy (September 2022 to January 2023)
 - Daily pairing in order to problem solve efficiently, requiring teamwork and communication.
 - Work in teams on a group projects.
 - Hosted demo event for my cohort.
@@ -119,10 +121,10 @@ A-Levels: Biology, French & German
 
 GCSEs: 11 GCSEs
 
-## Volunteering
+## Volunteering 🧑‍🤝‍🧑
 📘 I volunteer at my local Secondary school, quality checking learning resources meet a high standard.
 
-## Interests
+## Interests 🎮
 
 🎲 Modern board games: Currently playing Here to Slay & Isle of Cats <br>
 🛶 Kayaking <br>
@@ -131,7 +133,7 @@ GCSEs: 11 GCSEs
 🐶 Taking long walks on the moors with my dog (Loki)
 
   
-## Future Goals <br>
+## Future Goals 🚀
 ✈️ Getting my pilots licence <br>
 🎻 Learning the violin <br>
 ☕ Learning Java
