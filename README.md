@@ -14,7 +14,7 @@
 ## About me
 I'm Kay, I've taken been taking an extended career break to raise my children for the past 11 years, but parenting and home-educating aside, I've been working on my skillset so I can launch myself back into the workforce fully prepped!
 
-Unlike 1% of the population, I was born with a highly gifted IQ, but that's only good if you do something with it. Fortunately, that didnt stop me from burning out completely in my teens. Even better, it took me a long while to regain my confidence and realise that I was enough. For the last couple of years I've been using my skills to revisit learning and achieve the goals I set for myself. 
+Unlike 99% of the population, I was born with a highly gifted IQ, but that's only good if you do something with it. Fortunately, that didnt stop me from burning out completely in my teens. Even better, it took me a long while to regain my confidence and realise that I was enough. For the last couple of years I've been using my skills to revisit learning and achieve the goals I set for myself. 
 
 In 2020, I decided to rediscover my love of learning and do another degree in Chemistry. Prior to that I had been self-studying A-Level Maths in my free-time. Come 2022, full of confidence and ambition from two years of successful intensive learning, I realised what I really love most about science is problem-solving, using computers to solve complex problems, like protein-folding a la DeepMind.
 
@@ -78,14 +78,12 @@ My quest in life is to learn something new every day and I am a huge advocate fo
 ## Education
 
 #### Makers Academy (September 2022 to January 2023) (TODO)
-- Frequently used pairing in order to problem solve efficiently, requiring teamwork and communication.
+- Daily pairing in order to problem solve efficiently, requiring teamwork and communication.
 - Work in teams on a group projects.
 - Hosted demo event for my cohort.
 - OOP, TDD
 - Agile
-- Ruby, JavaScript, REACT
-- RSpec, Jest
-- SQL, PostgreSQL
+- Ruby, JavaScript, REACT, RSpec, Jest, SQL, PostgreSQL
 - HTML, CSS & Chakra UI
 - Training in empathy, team communication & feedback
 
