@@ -109,4 +109,12 @@ German
 
 ## Interests
 
-Playing modern board games, kayaking, crocheting, knitting & learning to play the piano(badly!).
+🎲 Modern board games: Currently playing Here to. Slay & Isle of Cats 
+🛶 Kayaking
+🎨 Crochet & knitting
+🎹 Playing piano: Grade 1 - Very much a beginner!
+  
+## Future Goals
+✈️ Getting my pilots licence
+🎻 Learning the violin
+☕ Learning Java
