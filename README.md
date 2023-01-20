@@ -1,9 +1,16 @@
 <h1 align='center'> Kay Watts<h1> 
 
-[<img width="200"  alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<div align='center'>
+
+[<img width="200"  height="45" alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 ](https://www.linkedin.com/in/kay-watts/ "LinkedIn Profile")
-[<img width="200" height="50" alt="personal website" src="https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=website&logoColor=white&color=purple">
+[<img width="200" height="45" alt="gmail" src="https://img.shields.io/badge/-kwatts949-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kwatts949@gmail.com">
+](mailto:kwatts949@gmail.com)
+[<img width="200" height="45" alt="personal website" src="https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=website&logoColor=white&color=purple">
 ](https://kwatts949.github.io/ "Website")
+
+
+</div>
 
 <div>
 <h6 align='center'>
