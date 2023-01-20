@@ -21,8 +21,8 @@
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#trophy-skills'>Skills </a><span> · </span>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#school-education'>Education </a> <span> · </span>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#people_holding_hands-volunteering'>Volunteering</a> <span> · </span>
-<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#interests'>Interests </a>  <span> · </span>
-<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#volunteering'>Volunteering </a>  
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#-interests'>Interests </a> 
+
 <h6>
 </div>
 
