@@ -1,4 +1,10 @@
 <h1 align='center'> Kay Watts<h1> 
+
+[<img width="200"  alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+](https://www.linkedin.com/in/kay-watts/ "LinkedIn Profile")
+[<img width="200" height="50" alt="personal website" src="https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=website&logoColor=white&color=purple">
+](https://kwatts949.github.io/ "Website")
+
 <div>
 <h6 align='center'>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#about-me'>About me </a> <span> · </span>
