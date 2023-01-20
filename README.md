@@ -19,7 +19,7 @@
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#book-projects'>Projects </a><span> · </span>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#construction_worker_woman-work-experience'>Work Experience</a><span> · </span>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#trophy-skills'>Skills </a><span> · </span>
-<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#school-education'>Education </a>
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#school-education'>Education </a> <br>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#people_holding_hands-volunteering'>Volunteering</a> <span> · </span>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#-interests'>Interests </a> 
 
