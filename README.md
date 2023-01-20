@@ -18,8 +18,9 @@
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#computer-tech-stack'>Tech Stack </a><span> · </span>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#book-projects'>Projects </a><span> · </span>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#construction_worker_woman-work-experience'>Work Experience</a><span> · </span>
-<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#skills'>Skills </a><span> · </span>
-<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#education'>Education </a> <span> · </span>
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#trophy-skills'>Skills </a><span> · </span>
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#school-education'>Education </a> <span> · </span>
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#people_holding_hands-volunteering'>Volunteering</a> <span> · </span>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#interests'>Interests </a>  <span> · </span>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#volunteering'>Volunteering </a>  
 <h6>
@@ -139,7 +140,7 @@ GCSEs: 11 GCSEs
 ## :people_holding_hands: Volunteering
 📘 I volunteer at my local Secondary school, quality checking learning resources meet a high standard.
 
-## Interests 🎮
+## 🎮 Interests
 
 🎲 Modern board games: Currently playing Here to Slay & Isle of Cats <br>
 🛶 Kayaking <br>
@@ -148,7 +149,7 @@ GCSEs: 11 GCSEs
 🐶 Taking long walks on the moors with my dog (Loki)
 
   
-## Future Goals 🚀
+## 🚀 Future Goals
 ✈️ Getting my pilots licence <br>
 🎻 Learning the violin <br>
 ☕ Learning Java
