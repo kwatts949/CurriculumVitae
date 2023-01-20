@@ -15,9 +15,9 @@
 <div>
 <h6 align='center'>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#person_red_hair-about-me'>About me </a> <span> · </span>
-<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README#computer-tech-stack'>Tech Stack </a><span> · </span>
-<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#projects'>Projects </a><span> · </span>
-<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#work-experience'>Work Experience</a><span> · </span>
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#computer-tech-stack'>Tech Stack </a><span> · </span>
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#book-projects'>Projects </a><span> · </span>
+<a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#construction_worker_woman-work-experience'>Work Experience</a><span> · </span>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#skills'>Skills </a><span> · </span>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#education'>Education </a> <span> · </span>
 <a href='https://github.com/kwatts949/CurriculumVitae/blob/master/README.md#interests'>Interests </a>  <span> · </span>
