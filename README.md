@@ -35,7 +35,9 @@ Unlike 99% of the population, I was born with a highly gifted IQ, but that's onl
 
 In 2020, I decided to rediscover my love of learning and do another degree in Chemistry. Prior to that I had been self-studying A-Level Maths in my free-time. Come 2022, full of confidence and ambition from two years of successful intensive learning, I realised what I really love most about science is problem-solving, using computers to solve complex problems, like protein-folding a la DeepMind.
 
-I'm now ready for a new challenge, to explore something I've long wanted to do. Coding gives me the opportunity to learn something new every day, to problem-solve to my hearts content, and challenge my brain and creativity in ways I couldn't have imagined. I'm looking to work in an exciting, progressive, tech-led company and see what we can achieve together.
+Having recently graduated from Makers, I am keen to further my knowledge and expand my skillset. I have continued to learn, creating small projects, studying a course in REACT and will soon be starting an evening class in Web Development with Code First Girls. 
+
+Coding gives me the opportunity to learn something new every day, to problem-solve to my hearts content, and challenge my brain and creativity in ways I couldn't have imagined. I'm looking to work in an exciting, progressive, tech-led company and see what we can achieve together.
   
 </div>
 
@@ -72,32 +74,31 @@ I'm now ready for a new challenge, to explore something I've long wanted to do. 
 
 **Client Executive (Tax)**
 
-- Preparing client tax accounts and self-assessment returns.
-- Promoted twice within just over a year due to my excellent work ethic, attention to detail and ability to produce highly accurate work under time pressure.
-- Prepared and delivered induction training to a group of around 10 new starters with just 24 hours notice.
+- Managed and maintained client accounts, including preparing self-assessment tax returns
+- Proven track record of high-quality and accurate work under time pressure, resulting in two promotions within a just over a year.
+- Demonstrated exceptional work ethic, attention to detail, and ability to lead, by delivering induction training to 10 new starters with just 24 hours notice.
 
 ### **The Audit Commission** (September 2009 to June 2010)  
 
 **Trainee Auditor Graduate Scheme**
 
-- Ensuring client financial accounts were correct and compliant.
-- Excellent communication was essential, most of my time was spent within client workplaces (such as The Royal Cornwall NHS Hospital Trust), liasing with employees.
-- Passed exams in Business & Financial Management.
+- Assisted in ensuring the accuracy and compliance of financial accounts by performing audits and reviewing financial records.
+- Developed effective communication and interpersonal skills by regularly liaising with a diverse range of clients in their workplace.
+- Demonstrated a strong understanding of business and financial management by successfully passing related exams.
 
 ### **Thomson Reuters** (September 2007 to September 2009)  
 
 **Stock Market Data Analyst (Swiss, Austrian & Luxembourg Exchanges)**
 
-- Highly technical role within a live, real-time environment maintaining stock exchange data.
-- Required accuracy and precision, attention to detail and excellent communication skills (in English, French & German). 
-- Identifying and resolving potential issues before they became problematic and resolving stakeholder tickets.
-- High pressure, fast-paced environment - the ability to remain calm and make fast, constructive decisions was essential.
-- Presented with a Sunset Award for my work within a large international team responsible for the migration of data.  
+- A highly technical role within a fast-paced and high-pressure environment, responsible for ensuring the integrity of stock exchange data.
+- Proactively identified and resolved potential issues, maintaining data accuracy and consistency.
+- Collaborated effectively with internal and external stakeholders to resolve issues and improve processes.
+- Recognised for excellence in data migration work with a Sunset Award in a large international team. 
 
 ## :trophy: Skills 
 ### Communication
 
-I have considerable experience in writing high quality technical reports and new starter documentation. I have often been praised for my clean, clear and concise wording. I am an excellent oral communicator, having studied several languages and have worked effectively in many local and international teams spanning different cultures.
+I possess strong communication skills, with a proven ability to write high-quality technical reports and documentation. I am known for my ability to convey information clearly and concisely, and I am also an effective oral communicator, having studied multiple languages and worked with teams from diverse cultural backgrounds.
 
 ### Problem-solving
 
@@ -105,7 +106,7 @@ I'm a proven effective problem-solver. I live for the challenge of finding solut
 
 ### Accuracy & precision
 
-I ensure that all work I complete is highly accurate and precise. Within my Chemistry degree, I have achieved a score of 100% on several assignments due to the impeccable quality of my work. Additionally, I have worked with live data feeds where the smallest error could result in catastrophic effects on the data feed integrity. As such, I have considerable experience in error-checking and ensuring accuracy.
+I am extremely detail-oriented and take great care to ensure that all of my work is accurate and precise. This is reflected in my Chemistry degree, where I have received perfect scores on several assignments. Furthermore, I have experience working with live data feeds, where precision and error-checking are crucial.
 
 ### Love of learning
 My quest in life is to learn something new every day and I am a huge advocate for education - I volunteer at my local secondary school, improving the quality of their resources to enrich the experience of students. I have an inherent desire to challenge myself and be better. This year, I've learnt to code and begun playing the piano - I'm excited to see what next year will bring!
