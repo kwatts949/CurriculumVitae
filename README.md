@@ -98,18 +98,30 @@ Coding gives me the opportunity to learn something new every day, to problem-sol
 ## :trophy: Skills 
 ### Communication
 
-I possess strong communication skills, with a proven ability to write high-quality technical reports and documentation. I am known for my ability to convey information clearly and concisely, and I am also an effective oral communicator, having studied multiple languages and worked with teams from diverse cultural backgrounds.
+I possess exceptional communication skills, including a proven ability to produce high-quality technical reports and documentation, as demonstrated in my Chemistry degree. While working at Thomson Reuters, I was also responsible for writing and updating highly technical process documentation, which required exceptional clarity and concision in my communication. I am known for my ability to clearly convey complex information. Additionally, I am an effective oral communicator, having studied multiple languages and worked with teams from diverse cultural backgrounds, including those with limited English proficiency.
 
 ### Problem-solving
 
-I'm a proven effective problem-solver. I live for the challenge of finding solutions where others can't. In my job at Ernst & Young, I indentified and helped implement changes we could make to the way new starters were inducted into our team to make them more productive quicker.
+I am an accomplished problem-solver who thrives on the challenge of finding solutions where others may struggle. My experience at Ernst & Young is a testament to this, as I was able to identify and implement changes to our team's new starter induction process, resulting in increased productivity.
+
+My time at Makers further honed my problem-solving skills by exposing me to a variety of coding challenges, where I learned the value of taking the time to thoughtfully diagram and plan solutions. I believe that my ability to take a step back and approach challenges methodically, rather than diving in impulsively, is what makes me an effective problem-solver.
 
 ### Accuracy & precision
 
-I am extremely detail-oriented and take great care to ensure that all of my work is accurate and precise. This is reflected in my Chemistry degree, where I have received perfect scores on several assignments. Furthermore, I have experience working with live data feeds, where precision and error-checking are crucial.
+I am extremely detail-oriented and take great care to ensure that all of my work is accurate and precise. This is reflected in my Chemistry degree, where I have received perfect scores on several assignments. Furthermore, I have experience working with live data feeds whilst at Thomson Reuters, where precision and error-checking are crucial.
+
+In addition, whilst working in Tax at Ernst & Young, I would often be assigned urgent work with a very tight timeframe as I was respected for my ability to produce very high quality work with minimal errors. 
+
+I have been able to transfer these skills easily to coding, and have found that I am able to produce high quality, reliable and consistent code with minimal errors. Additionally, I have found that paying attention to accuracy and precision makes for more easily maintainable code that is easier to debug.
+
+### Teamwork
+
+I am a strong believer in the power of teamwork. In my experience, a dedicated team can always accomplish more than individuals alone. My time at Makers honed my team-playing skills and I found team projects to be particularly enjoyable. Through working with a diverse range of individuals, I was able to contribute my strengths and learn from others in areas where I am weaker. 
+
+My experience in previous employment has been characterized by a strong emphasis on teamwork, both in local and remote settings. I have also had the opportunity to mentor and train new team members, leveraging my knowledge to enhance team efficiency and effectiveness. One notable experience was while working at Thomson Reuters, where the majority of projects were team-based. These included small teams of four working on specific exchange data as well as large, multi-national projects, where I collaborated with individuals from various countries. Through my contributions, I was able to make a significant impact and was recognized with an award for the success of the final project.
 
 ### Love of learning
-My quest in life is to learn something new every day and I am a huge advocate for education - I volunteer at my local secondary school, improving the quality of their resources to enrich the experience of students. I have an inherent desire to challenge myself and be better. This year, I've learnt to code and begun playing the piano - I'm excited to see what next year will bring!
+My quest in life is to learn something new every day and I am passionate about improving outcomes through learning - I volunteer at my local secondary school, improving the quality of their resources to enrich the experience of students. I also have an inherent desire to challenge myself and develop further. Last year, I learnt to code and begun playing the piano - so far this year, I've been extending my knowledge of REACT, I'm going to take a course in web development and plan on learning at least one new language!
 
 ## :school: Education 
 
@@ -143,11 +155,11 @@ GCSEs: 11 GCSEs
 
 ## 🎮 Interests
 
-🎲 Modern board games: Currently playing Here to Slay & Isle of Cats <br>
-🛶 Kayaking <br>
-🎨 Crochet & knitting <br>
+🎲 Modern board games: Currently playing Here to Slay, Canvas & Isle of Cats <br>
+🛶 Canoeing <br>
+🎨 Crochet & knitting: When I have time! <br>
 🎹 Playing piano: Grade 1 - Very much a beginner & currently learning Small Valse composed by Borislava Taneva! <br>
-🐶 Taking long walks on the moors with my dog (Loki)
+🐶 Walking: Long walks on the moors with my dog (Loki) in the beautiful surrounding countryside.
 
   
 ## 🚀 Future Goals
