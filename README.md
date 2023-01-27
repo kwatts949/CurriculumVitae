@@ -129,13 +129,11 @@ I'm continuing to learn this year and so far, I've been extending my knowledge o
 
 #### Makers Academy (September 2022 to January 2023)
 - Daily pairing in order to problem solve efficiently, requiring teamwork and communication.
-- Work in teams on a group projects.
-- Hosted demo event for my cohort.
-- OOP, TDD
-- Agile
-- JavaScript, Ruby, REACT
-- HTML, CSS & Chakra UI
-- Training in empathy, team communication & feedback
+- Working in teams on a group projects including [Acebook](https://github.com/kwatts949/Acebook---A-Facebook-Clone) and [Tipsy Tourist](https://github.com/kwatts949/tipsy-tourist).
+- Hosted the MakersBnB demo event for my cohort.
+- Learnt OOP, TDD & Agile processes.
+- Learnt JavaScript, Ruby, REACT from scratch
+- Trainined in empathy, team communication & feedback
 
 #### The Open University (Jan 2020 to Present)
 
