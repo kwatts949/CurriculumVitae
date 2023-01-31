@@ -157,12 +157,6 @@ Code First Girls (September 2022)
 
 - BA French & German
 
-#### Highworth Grammar School for Girls
-
-A-Levels: Biology, French & German
-
-GCSEs: 11 GCSEs
-
 ## :people_holding_hands: Volunteering
 📘 Dedicated to improving educational outcomes for children, I volunteer at a local Secondary school where I work to enhance the quality of resources for pupils, providing enrichment opportunities to support their learning experiences.
 
