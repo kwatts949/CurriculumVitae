@@ -74,7 +74,7 @@ Coding is a constantly evolving field that allows me to learn something new ever
 - Managed and maintained client accounts, including preparing self-assessment tax returns
 - Proven track record of high-quality and accurate work under time pressure, resulting in two promotions within a just over a year.
 - Demonstrated exceptional work ethic and attention to detail, resulting in me being the first port of call for urgent and complex work. 
-- Showed the ability to lead, by delivering induction training and support to 10 new starters with just 24 hours notice.
+- Showed the ability to lead, by delivering induction training, mentoring and support to 10 new starters with just 24 hours notice.
 
 ## **Trainee Auditor Graduate Scheme**
 ### **The Audit Commission** (September 2009 - June 2010)  
