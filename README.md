@@ -68,25 +68,23 @@ Coding is a constantly evolving field that allows me to learn something new ever
 
 ## :construction_worker_woman: Work Experience
 
-### **Ernst & Young** (June 2010 to June 2012) 
-
-**Client Executive (Tax)**
+## **Client Executive (Tax)**
+### **Ernst & Young (June 2010 - June 2012)**
 
 - Managed and maintained client accounts, including preparing self-assessment tax returns
 - Proven track record of high-quality and accurate work under time pressure, resulting in two promotions within a just over a year.
-- Demonstrated exceptional work ethic, attention to detail, and ability to lead, by delivering induction training to 10 new starters with just 24 hours notice.
+- Demonstrated exceptional work ethic and attention to detail, resulting in me being the first port of call for urgent work. 
+- Showed the ability to lead, by delivering induction training and support to 10 new starters with just 24 hours notice.
 
-### **The Audit Commission** (September 2009 to June 2010)  
+## **Trainee Auditor Graduate Scheme**
+### **The Audit Commission** (September 2009 - June 2010)  
 
-**Trainee Auditor Graduate Scheme**
-
-- Assisted in ensuring the accuracy and compliance of financial accounts by performing audits and reviewing financial records.
+- Ensured the accuracy and compliance of financial accounts by performing audits and reviewing financial records.
 - Developed effective communication and interpersonal skills by regularly liaising with a diverse range of clients in their workplace.
 - Demonstrated a strong understanding of business and financial management by successfully passing related exams.
 
-### **Thomson Reuters** (September 2007 to September 2009)  
-
-**Stock Market Data Analyst (Swiss, Austrian & Luxembourg Exchanges)**
+## **Stock Market Data Analyst (Swiss, Austrian & Luxembourg Exchanges)**
+### **Thomson Reuters** (September 2007 - September 2009)  
 
 - A highly technical role within a fast-paced and high-pressure environment, responsible for ensuring the integrity of stock exchange data.
 - Proactively identified and resolved potential issues, maintaining data accuracy and consistency.
@@ -126,16 +124,17 @@ Last year, I homeschooled my daughter full-time whilst maintaining First Class s
 I'm continuing to learn this year and so far, I've been extending my knowledge of REACT, I'm going to take a course in web development in February and plan on learning at least one new programming language - I'm also looking forward to adding to this list!
 
 ## :school: Education 
+#### Courses
 
-#### Makers Academy (September 2022 to January 2023)
+#### Makers Academy Software Development Bootcamp (September 2022 - January 2023)
 - Daily pairing in order to problem solve efficiently, requiring teamwork and communication.
 - Working in teams on a group projects including [Acebook](https://github.com/kwatts949/Acebook---A-Facebook-Clone) and [Tipsy Tourist](https://github.com/kwatts949/tipsy-tourist).
 - Hosted the MakersBnB demo event for my cohort.
 - Learnt OOP, TDD & Agile processes.
 - Learnt JavaScript, Ruby, REACT from scratch
-- Trainined in empathy, team communication & feedback
+- Trained in empathy, team communication & feedback
 
-#### The Open University (Jan 2020 to Present)
+#### The Open University (Jan 2020 - Present)
 
 - BSc Chemistry
 - I achieved 100% in several assignments and have been awarded a distinction (score of > 85%) in each of the 6 modules I have completed to date.
