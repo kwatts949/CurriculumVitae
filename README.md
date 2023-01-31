@@ -125,6 +125,19 @@ I'm continuing to learn this year and so far, I've been extending my knowledge o
 
 ## :school: Education 
 #### Courses
+  
+**Web Development** <br>
+Code First Girls (Commences February 2023)
+  
+**REACT**
+Udemy (January 2023)
+  
+**Learn Ruby** <br>
+Udemy (September 2022) 
+  
+**Data & SQL** <br>
+Code First Girls (September 2022)
+  
 
 #### Makers Academy Software Development Bootcamp (September 2022 - January 2023)
 - Daily pairing in order to problem solve efficiently, requiring teamwork and communication.
