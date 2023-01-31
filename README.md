@@ -89,7 +89,7 @@ Coding is a constantly evolving field that allows me to learn something new ever
 - A highly technical role within a fast-paced and high-pressure environment, responsible for ensuring the integrity of stock exchange data.
 - Proactively identified and resolved potential issues, maintaining data accuracy and consistency.
 - Collaborated effectively with internal and external stakeholders to resolve issues and improve processes.
-- Recognised for excellence in data migration work with a Sunset Award in a large international team. 
+- Recognised with a Sunset Award for excellence in data migration work in a large international team. 
 
 ## :trophy: Skills 
 ### Communication
