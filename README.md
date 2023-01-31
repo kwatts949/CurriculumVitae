@@ -69,11 +69,11 @@ Coding is a constantly evolving field that allows me to learn something new ever
 ## :construction_worker_woman: Work Experience
 
 ## **Client Executive (Tax)**
-### **Ernst & Young (June 2010 - June 2012)**
+### Ernst & Young (June 2010 - June 2012)
 
 - Managed and maintained client accounts, including preparing self-assessment tax returns
 - Proven track record of high-quality and accurate work under time pressure, resulting in two promotions within a just over a year.
-- Demonstrated exceptional work ethic and attention to detail, resulting in me being the first port of call for urgent work. 
+- Demonstrated exceptional work ethic and attention to detail, resulting in me being the first port of call for urgent and complex work. 
 - Showed the ability to lead, by delivering induction training and support to 10 new starters with just 24 hours notice.
 
 ## **Trainee Auditor Graduate Scheme**
@@ -94,8 +94,8 @@ Coding is a constantly evolving field that allows me to learn something new ever
 ## :trophy: Skills 
 ### Communication
 
-I possess exceptional communication skills, including a proven ability to produce high-quality technical reports and documentation, as demonstrated in my Chemistry degree. While working at Thomson Reuters, I was also responsible for writing and updating highly technical process documentation, which required exceptional clarity and concision in my communication. I am known for my ability to clearly convey complex information. Additionally, I am an effective oral communicator, having studied multiple languages and worked with teams from diverse cultural backgrounds, including those with limited English proficiency.
-
+I possess exceptional communication skills, including a proven ability to produce high-quality technical reports and documentation, as demonstrated in my Chemistry degree and repository READMEs [(see Bank Tech Test)](https://github.com/kwatts949/banking_app). While working at Thomson Reuters, I was also responsible for writing and updating highly technical process documentation, which required exceptional clarity and concision in my communication. Additionally, I am an effective oral communicator, having studied multiple languages and worked with teams from diverse cultural backgrounds, including those with limited English proficiency. I am known for my ability to clearly convey complex information and this was very useful during my time at Makers, where I was able to explain coding concepts effectively to my pair partners.
+  
 ### Problem-solving
 
 I am an accomplished problem-solver who thrives on the challenge of finding solutions where others may struggle. My experience at Ernst & Young is a testament to this, as I was able to identify and implement changes to our team's new starter induction process, resulting in increased productivity.
