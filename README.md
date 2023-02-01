@@ -29,7 +29,7 @@
 
 
 ## :person_red_hair: About me
-I'm Kay, I'm a Full Stack Software Developer who has taken an extended career break to raise my children for the past 11 years, but parenting and home-educating aside, I've also been working on my skills so I can return to the workforce.
+I'm Kay, a Full Stack Software Developer who has taken an extended career break to raise my children for the past 11 years, but parenting and home-educating aside, I've also been working on my skills so I can return to the workforce.
 
 In 2020, I decided to rediscover my love of learning and do another degree in Chemistry. Prior to that I had been self-studying A-Level Maths in my free-time. Come 2022, full of confidence and ambition from two years of successful, intensive learning, I realised what I really love most about science is problem-solving and using computers to solve complex problems, like protein-folding a la DeepMind. This encouraged me to take the plunge into exploring coding as a career option and I quickly discovered that coding really suited my particular skills. For me, being a good developer is to have the mind of a scientist with the heart of an artist, and I think this describes me perfectly! With this in mind, I applied for a software engineering course, and the rest, as they say is history!
 
