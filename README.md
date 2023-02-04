@@ -125,7 +125,7 @@ Last year, I homeschooled my daughter full-time whilst maintaining First Class s
 I'm continuing to learn this year and so far, I've been extending my knowledge of REACT, I'm going to take a course in web development in February and plan on learning at least one new programming language - I'm also looking forward to adding to this list!
 
 ## :school: Education 
-#### Courses
+### Courses
   
 **Web Development** <br>
 Code First Girls (Commences February 2023)
@@ -141,22 +141,19 @@ Code First Girls (September 2022)
   
 
 #### Makers Academy Software Development Bootcamp (September 2022 - January 2023)
-- Daily pairing in order to problem solve efficiently, requiring teamwork and communication.
-- Working in teams on a group projects including [Acebook](https://github.com/kwatts949/Acebook---A-Facebook-Clone) and [Tipsy Tourist](https://github.com/kwatts949/tipsy-tourist).
+- Paired daily in order to problem solve efficiently, requiring teamwork and communication.
+- Worked in teams on a group projects including [Acebook](https://github.com/kwatts949/Acebook---A-Facebook-Clone) and [Tipsy Tourist](https://github.com/kwatts949/tipsy-tourist).
 - Hosted the MakersBnB demo event for my cohort.
 - Learnt OOP, TDD & Agile processes.
 - Learnt JavaScript, Ruby, REACT from scratch
 - Trained in empathy, team communication & feedback
 
-#### The Open University (Jan 2020 - Present)
+#### BSc Chemistry - The Open University (Jan 2020 - Present)
 
-- BSc Chemistry
-- I achieved 100% in several assignments and have been awarded a distinction (score of > 85%) in each of the 6 modules I have completed to date.
-- I am currently on track to receive a First Class degree.
+- Achieved 100% in several assignments and have been awarded a distinction (score of > 85%) in each of the 6 modules I have completed to date.
+- Currently on track to receive a First Class degree.
 
-#### The University of Exeter (Sept 2003 to June 2007)
-
-- BA French & German
+#### BA French & German - The University of Exeter (Sept 2003 to June 2007)
 
 ## :people_holding_hands: Volunteering
 📘 Dedicated to improving educational outcomes for children, I volunteer at a local Secondary school where I work to enhance the quality of resources for pupils, providing enrichment opportunities to support their learning experiences.
