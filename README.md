@@ -130,13 +130,13 @@ I'm continuing to learn this year and so far, I've been extending my knowledge o
 **Web Development** <br>
 Code First Girls (Commences February 2023)
 
-**Machine Learning**
+**Machine Learning** <br>
 Code First Girls (February 2023)
 
-**Coding Team Challenge**
+**Coding Team Challenge** <br>
 Code First Girls (February 2023)
   
-**REACT**
+**REACT** <br>
 Udemy (January 2023)
   
 **Learn Ruby** <br>
