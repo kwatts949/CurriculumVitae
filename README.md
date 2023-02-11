@@ -130,6 +130,9 @@ I'm continuing to learn this year and so far, I've been extending my knowledge o
 **Web Development** <br>
 Code First Girls (Commences February 2023)
 
+**Machine Learning**
+Code First Girls (February 2023)
+
 **Coding Team Challenge**
 Code First Girls (February 2023)
   
