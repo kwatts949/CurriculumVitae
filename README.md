@@ -61,9 +61,9 @@ Coding is a constantly evolving field that allows me to learn something new ever
 
 | Name | Description | Tech/Tools |
 | ---| --- | --- |
+| [Pokemon Card Search](https://github.com/kwatts949/PokemonCardSearch) | A simple app built for my son, it retrieves current Pokemon card prices & stops me getting asked how much each card costs one hundred times a day! | REACT, JavaScript, HTML, CSS |
 | [Personal Website](https://github.com/kwatts949/kwatts949.github.io) | Personal website to further my knowledge of REACT.| REACT, Sass, HTML
 | [Tipsy Tourist](https://github.com/kwatts949/Tipsy-Tourist) | A pubcrawl & sight-seeing tour planner. This app was developed by a team of 4 in just over 7 days using GoogleMaps & will plot a scenic pub crawl route anywhere in the world. | GoogleMaps, REACT, Express, JavaScript, Chakra |
-| [Pokemon Card Search](https://github.com/kwatts949/PokemonCardSearch) | A simple app built for my son, it retrieves current Pokemon card prices & stops me getting asked how much each card costs one hundred times a day! | REACT, JavaScript, HTML, CSS |
 [AceBook](https://github.com/kwatts949/Acebook---A-Facebook-Clone) | A Facebook Clone. A small team project to develop an existing codebase. | REACT, Express, Node, JavaScript, MongoDB, HTML, CSS |
 | [Makers BnB](https://github.com/H6enryB/makersbnb-ruby-seed) | A group project making a BnB clone. | Ruby, RSpec, SQL, PostgreSQL, HTML, CSS |
 
