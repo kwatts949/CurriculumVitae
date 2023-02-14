@@ -1,4 +1,4 @@
-⁸<h1 align='center'> Kay Watts<h1> 
+<h1 align='center'> Kay Watts<h1> 
 
 <div align='center'>
 
@@ -122,7 +122,7 @@ My quest in life is to learn something new every day and I am passionate about i
 
 Last year, I homeschooled my daughter full-time whilst maintaining First Class scores in my Chemistry degree, learning to code and picking up the piano as an adult beginner. This provided me with a quite enormous and unexpected learning opportunity, where I had to refine my time-management and organisational skills, learn lots of patience and empathy, as well as the entire Year 6 & 7 curriculums along with my own study material! When I took my daughter out of school, she was really struggling with Maths and didn't even know her times tables. I provided a safe, effective learning environment for her and she has returned to Year 6 this year, achieving top scores, receiving an award for Maths and been entered into a National Mathematics competition. It has been a real treat to share my love of learning with her and receive such great results!
 
-I'm continuing to learn this year and so far, I've been extending my knowledge of REACT, I'm going to take a course in web development in February and plan on learning at least one new programming language - I'm also looking forward to adding to this list!
+I'm continuing to learn this year and so far, I've been extending my knowledge of REACT, taking courses in web development and machine learning with Code First Girls, and plan on learning at least one new programming language - I'm also looking forward to adding to this list!
 
 ## :school: Education 
 ### Courses
