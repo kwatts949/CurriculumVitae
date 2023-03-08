@@ -126,9 +126,12 @@ I'm continuing to learn this year and so far, I've been extending my knowledge o
 
 ## :school: Education 
 ### Courses
+
+**Java Sprint** <br>
+Code First Girls (March 2023)
   
 **Web Development** <br>
-Code First Girls (Commences February 2023)
+Code First Girls (February 2023)
 
 **Machine Learning** <br>
 Code First Girls (February 2023)
